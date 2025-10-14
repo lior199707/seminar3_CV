@@ -1,4 +1,3 @@
-```markdown
 # Image Processing & Computer Vision - 3-Hour Workshop
 
 ## 📚 About This Workshop
@@ -170,4 +169,3 @@ For questions about the workshop content, please refer to the detailed explanati
 ---
 
 **Happy Learning!** Transform pixels into predictions with computer vision! 🖼️→🤖
-```
